@@ -8,3 +8,4 @@ Fork meg og lag et brukbart stilark til våre fantastiske gjemmesider!
 ## KISS da LEMON!
 
 Brukes det rammeverk eller andre eksterne kilder bør dette solid begrunnes. Hvis ikke forkastes forslaget.
+Btw, Cssgrid er din venn!
