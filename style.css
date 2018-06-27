@@ -1,3 +1,14 @@
-.sitron {
-  width:5%;
+body {
+  background-color: #FFFF99;
+  font:1em verdana;
+  margin:20% ;
+  margin-top:10%;
+  width:60%;
+}
+h1 {
+  font:3em verdana;
+  margin:0px;
+}
+p {
+  margin:2px;
 }
