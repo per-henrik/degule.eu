@@ -1,14 +1,39 @@
+@import url('menu.css');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
 body {
   background-color: #FFFF99;
   font:1em verdana;
   margin:20% ;
-  margin-top:10%;
+  margin-top:0;
   width:60%;
+}
+header {
+  text-align:center;
 }
 h1 {
   font:3em verdana;
-  margin:0px;
 }
+h2 {
+  margin-top:13%;
+}
+header li {
+  list-style: none;
+  text-align: left;
+}
+header li:before {
+  font-family: 'Poppins';
+  font-size:30vw;
+  content: '„';
+  display:absolute;
+  margin:0 5px 0 -15px;
+  color: #f00;
+  }
 p {
   margin:2px;
+}
+
+#partiprogramforklaringsseksjon {
+  font-style: italic;
+  margin-top:30%;
 }
