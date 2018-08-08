@@ -106,7 +106,6 @@
  #menu
  {
    position: absolute;
-   width: 80%;
    margin: -100px 0 0 -50px;
    padding: 50px;
    padding-top: 125px;
@@ -125,8 +124,8 @@
  
  #menu li
  {
-   padding: 10px 0;
-   font-size: 22px;
+   padding: 3px 0;
+   font-size: 18px;
  }
  
  /*
